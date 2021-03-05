@@ -1,6 +1,8 @@
-### Hi there 👋
+### Mahmud Hasan
 
-<!--
+<I completed my BSc in "Naval Architecture and Marine Engineering" at an engineering institute of Bangladesh, BUET.
+I am passionate about Data science and Machine learning and trying to improve my learning day by day. My language of choice is Python but I am always open to learning new languages.
+I like facing challenges. I am continuously trying to improve myself to get a better version of myself. !--
 **Mahmud2345/Mahmud2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
